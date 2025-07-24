@@ -1,7 +1,7 @@
 ## 👋 Hi there!
 
 I'm **Gaelle Mardikian**, a Robotics engineering student at **Polytech Sorbonne, Paris** 🏫🤖  
-Passionate about mechatronics, AI, and creative coding projects.
+Passionate about mechatronics, automation, and creative coding projects.
 
 ---
 

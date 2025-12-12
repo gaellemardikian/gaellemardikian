@@ -11,7 +11,7 @@ Passionate about mechatronics, automation, and creative coding projects.
 - ♟️ **Chess Game** – A playable chess game where you can challenge the computer.
 - 🦾 **Autonomous Robot** – A robot that detects and retrieves an object and places it in a specific location.
 
-> I’m always curious to learn and build new things especially at the intersection of software and hardware!
+> I’m always curious to learn and build new things, especially at the intersection of software and hardware!
 
 ---
 

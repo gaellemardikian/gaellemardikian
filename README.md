@@ -1,15 +1,15 @@
 ## 👋 Hi there!
 
-I'm **Gaelle Mardikian**, a Robotics engineering student at **Polytech Sorbonne, Paris** 🏫🤖  
+I'm Gaelle Mardikian, a Robotics engineering student at Polytech Sorbonne, Paris 🏫🤖  
 Passionate about mechatronics, automation, and creative coding projects.
 
 ---
 
 ### 🚀 Projects I've worked on:
 
-- 🤖 **Living Machine** – A small robot that can recognize a suspect and chase it using servomotors and computer vision.
-- ♟️ **Chess Game** – A playable chess game where you can challenge the computer.
-- 🦾 **Autonomous Robot** – A robot that detects and retrieves an object and places it in a specific location.
+-  **Living Machine** – A small robot that can recognize a suspect and chase it using servomotors and computer vision.
+-  **Chess Game** – A playable chess game where you can challenge the computer.
+-  **Autonomous Robot** – A robot that detects and retrieves an object and places it in a specific location.
 
 > I’m always curious to learn and build new things, especially at the intersection of software and hardware!
 
